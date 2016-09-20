@@ -1,99 +1,99 @@
 The document summarizes all the resulting data fields in the tidy.txt dataset.
 
 Identifier Labels
-. subject  - The ID of the test subject
-. activity  - The type of activity performed when the corresponding measurements were taken
+- subject  - The ID of the test subject
+- activity  - The type of activity performed when the corresponding measurements were taken
 
 
 The Activity labels that represent a subjects activity during the test
 
-. WALKING  (value  1 ): subject was walking
-. WALKING_UPSTAIRS  (value  2 ): subject was walking up a staircase
-. WALKING_DOWNSTAIRS  (value  3 ): subject was walking down a staircase
-. SITTING  (value  4 ): subject was sitting
-. STANDING  (value  5 ): subject was standing
-. LAYING  (value  6 ): subject was laying down
+- WALKING  (value  1 ): subject was walking
+- WALKING_UPSTAIRS  (value  2 ): subject was walking up a staircase
+- WALKING_DOWNSTAIRS  (value  3 ): subject was walking down a staircase
+- SITTING  (value  4 ): subject was sitting
+- STANDING  (value  5 ): subject was standing
+- LAYING  (value  6 ): subject was laying down
 
 
 Labels Corresponding to Various Measurements
 
-• tBodyAccMeanX 
-• tBodyAccMeanY 
-• tBodyAccMeanZ 
-• tBodyAccStdX 
-• tBodyAccStdY 
-• tBodyAccStdZ 
-• tGravityAccMeanX 
-• tGravityAccMeanY 
-• tGravityAccMeanZ 
-• tGravityAccStdX 
-• tGravityAccStdY 
-• tGravityAccStdZ 
-• tBodyAccJerkMeanX 
-• tBodyAccJerkMeanY 
-• tBodyAccJerkMeanZ 
-• tBodyAccJerkStdX 
-• tBodyAccJerkStdY 
-• tBodyAccJerkStdZ 
-• tBodyGyroMeanX 
-• tBodyGyroMeanY 
-• tBodyGyroMeanZ 
-• tBodyGyroStdX 
-• tBodyGyroStdY 
-• tBodyGyroStdZ 
-• tBodyGyroJerkMeanX 
-• tBodyGyroJerkMeanY 
-• tBodyGyroJerkMeanZ 
-• tBodyGyroJerkStdX 
-• tBodyGyroJerkStdY 
-• tBodyGyroJerkStdZ 
-• tBodyAccMagMean 
-• tBodyAccMagStd 
-• tGravityAccMagMean 
-• tGravityAccMagStd 
-• tBodyAccJerkMagMean 
-• tBodyAccJerkMagStd 
-• tBodyGyroMagMean 
-• tBodyGyroMagStd 
-• tBodyGyroJerkMagMean 
-• tBodyGyroJerkMagStd 
-• fBodyAccMeanX 
-• fBodyAccMeanY 
-• fBodyAccMeanZ 
-• fBodyAccStdX 
-• fBodyAccStdY 
-• fBodyAccStdZ 
-• fBodyAccMeanFreqX 
-• fBodyAccMeanFreqY 
-• fBodyAccMeanFreqZ 
-• fBodyAccJerkMeanX 
-• fBodyAccJerkMeanY 
-• fBodyAccJerkMeanZ 
-• fBodyAccJerkStdX 
-• fBodyAccJerkStdY 
-• fBodyAccJerkStdZ 
-• fBodyAccJerkMeanFreqX 
-• fBodyAccJerkMeanFreqY 
-• fBodyAccJerkMeanFreqZ 
-• fBodyGyroMeanX 
-• fBodyGyroMeanY 
-• fBodyGyroMeanZ 
-• fBodyGyroStdX 
-• fBodyGyroStdY 
-• fBodyGyroStdZ 
-• fBodyGyroMeanFreqX 
-• fBodyGyroMeanFreqY 
-• fBodyGyroMeanFreqZ 
-• fBodyAccMagMean 
-• fBodyAccMagStd 
-• fBodyAccMagMeanFreq 
-• fBodyBodyAccJerkMagMean 
-• fBodyBodyAccJerkMagStd 
-• fBodyBodyAccJerkMagMeanFreq 
-• fBodyBodyGyroMagMean 
-• fBodyBodyGyroMagStd 
-• fBodyBodyGyroMagMeanFreq 
-• fBodyBodyGyroJerkMagMean 
-• fBodyBodyGyroJerkMagStd 
-• fBodyBodyGyroJerkMagMeanFreq 
+- tBodyAccMeanX 
+- tBodyAccMeanY 
+â€¢ tBodyAccMeanZ 
+â€¢ tBodyAccStdX 
+â€¢ tBodyAccStdY 
+â€¢ tBodyAccStdZ 
+â€¢ tGravityAccMeanX 
+â€¢ tGravityAccMeanY 
+â€¢ tGravityAccMeanZ 
+â€¢ tGravityAccStdX 
+â€¢ tGravityAccStdY 
+â€¢ tGravityAccStdZ 
+â€¢ tBodyAccJerkMeanX 
+â€¢ tBodyAccJerkMeanY 
+â€¢ tBodyAccJerkMeanZ 
+â€¢ tBodyAccJerkStdX 
+â€¢ tBodyAccJerkStdY 
+â€¢ tBodyAccJerkStdZ 
+â€¢ tBodyGyroMeanX 
+â€¢ tBodyGyroMeanY 
+â€¢ tBodyGyroMeanZ 
+â€¢ tBodyGyroStdX 
+â€¢ tBodyGyroStdY 
+â€¢ tBodyGyroStdZ 
+â€¢ tBodyGyroJerkMeanX 
+â€¢ tBodyGyroJerkMeanY 
+â€¢ tBodyGyroJerkMeanZ 
+â€¢ tBodyGyroJerkStdX 
+â€¢ tBodyGyroJerkStdY 
+â€¢ tBodyGyroJerkStdZ 
+â€¢ tBodyAccMagMean 
+â€¢ tBodyAccMagStd 
+â€¢ tGravityAccMagMean 
+â€¢ tGravityAccMagStd 
+â€¢ tBodyAccJerkMagMean 
+â€¢ tBodyAccJerkMagStd 
+â€¢ tBodyGyroMagMean 
+â€¢ tBodyGyroMagStd 
+â€¢ tBodyGyroJerkMagMean 
+â€¢ tBodyGyroJerkMagStd 
+â€¢ fBodyAccMeanX 
+â€¢ fBodyAccMeanY 
+â€¢ fBodyAccMeanZ 
+â€¢ fBodyAccStdX 
+â€¢ fBodyAccStdY 
+â€¢ fBodyAccStdZ 
+â€¢ fBodyAccMeanFreqX 
+â€¢ fBodyAccMeanFreqY 
+â€¢ fBodyAccMeanFreqZ 
+â€¢ fBodyAccJerkMeanX 
+â€¢ fBodyAccJerkMeanY 
+â€¢ fBodyAccJerkMeanZ 
+â€¢ fBodyAccJerkStdX 
+â€¢ fBodyAccJerkStdY 
+â€¢ fBodyAccJerkStdZ 
+â€¢ fBodyAccJerkMeanFreqX 
+â€¢ fBodyAccJerkMeanFreqY 
+â€¢ fBodyAccJerkMeanFreqZ 
+â€¢ fBodyGyroMeanX 
+â€¢ fBodyGyroMeanY 
+â€¢ fBodyGyroMeanZ 
+â€¢ fBodyGyroStdX 
+â€¢ fBodyGyroStdY 
+â€¢ fBodyGyroStdZ 
+â€¢ fBodyGyroMeanFreqX 
+â€¢ fBodyGyroMeanFreqY 
+â€¢ fBodyGyroMeanFreqZ 
+â€¢ fBodyAccMagMean 
+â€¢ fBodyAccMagStd 
+â€¢ fBodyAccMagMeanFreq 
+â€¢ fBodyBodyAccJerkMagMean 
+â€¢ fBodyBodyAccJerkMagStd 
+â€¢ fBodyBodyAccJerkMagMeanFreq 
+â€¢ fBodyBodyGyroMagMean 
+â€¢ fBodyBodyGyroMagStd 
+â€¢ fBodyBodyGyroMagMeanFreq 
+â€¢ fBodyBodyGyroJerkMagMean 
+â€¢ fBodyBodyGyroJerkMagStd 
+â€¢ fBodyBodyGyroJerkMagMeanFreq 
 
